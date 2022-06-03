@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@chainlink/contracts": "^0.4.1",
+    "hardhat": "^2.9.7"
+  }
+}
